@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-read-stream",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "description": "Readable stream client for DynamoDB",
@@ -11,8 +11,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.511.0",
-    "tslib": "^1.10.0",
-    "typescript": "^3.5.3"
+    "tslib": "^1.10.0"
   },
   "devDependencies": {
     "@types/node": "^12.7.2"

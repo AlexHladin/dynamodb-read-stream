@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb-read-stream",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "dependencies": {
+    "aws-sdk": "^2.511.0",
+    "tslib": "^1.10.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

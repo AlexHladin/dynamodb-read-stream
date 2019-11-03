@@ -9,12 +9,11 @@
     "type": "git",
     "url": "git@github.com:AlexHladin/dynamodb-read-stream.git"
   },
-  "dependencies": {
-    "tslib": "^1.10.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^12.7.2",
-    "aws-sdk": "^2.511.0"
+    "aws-sdk": "^2.511.0",
+    "typescript": "^3.6.4"
   },
   "scripts": {
     "prepublishOnly": "tsc"

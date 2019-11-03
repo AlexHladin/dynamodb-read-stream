@@ -1,6 +1,8 @@
 # dynamodb-read-stream
 This library provides read stream implementation for DynamoDB.
 
+[![npm](https://img.shields.io/npm/v/dynamodb-read-stream.svg?style=flat-square)](https://www.npmjs.com/package/dynamodb-read-stream)
+
 ## Example usage
 
 ### Query reader

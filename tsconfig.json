@@ -3,7 +3,6 @@
     "target": "es2019",
     "lib": [ "es2019" ],
     "downlevelIteration": true,
-    "importHelpers": true,
     "module": "commonjs",
     "noUnusedLocals": true,
     "strict": true,

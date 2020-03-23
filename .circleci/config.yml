@@ -44,15 +44,15 @@ jobs:
 
 workflows:
   version: 2
-  test-deploy:
+  deploy:
     jobs:
-      - test:
-          filters:
-            tags:
-              only: /^v.*/
+#      - test:
+#          filters:
+#            tags:
+#              only: /^v.*/
       - deploy:
-          requires:
-            - test
+#          requires:
+#            - test
           filters:
             tags:
               only: /^v.*/

@@ -16,5 +16,24 @@
   },
   "scripts": {
     "prepublishOnly": "tsc"
-  }
+  },
+  "keywords": [
+    "serverless",
+    "serverless framework",
+    "serverless applications",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "dynamo",
+    "dynamodb",
+    "dynamo db",
+    "no sql",
+    "nosql",
+    "stream",
+    "streams",
+    "read stream",
+    "readstream"
+  ]
 }

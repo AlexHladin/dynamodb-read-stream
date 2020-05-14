@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-read-stream",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "description": "Readable stream client for DynamoDB",
@@ -10,11 +10,30 @@
     "url": "git@github.com:AlexHladin/dynamodb-read-stream.git"
   },
   "devDependencies": {
-    "@types/node": "^13.9.3",
+    "@types/node": "^14.0.1",
     "aws-sdk": "^2.511.0",
     "typescript": "^3.6.4"
   },
   "scripts": {
     "prepublishOnly": "tsc"
-  }
+  },
+  "keywords": [
+    "serverless",
+    "serverless framework",
+    "serverless applications",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "dynamo",
+    "dynamodb",
+    "dynamo db",
+    "no sql",
+    "nosql",
+    "stream",
+    "streams",
+    "read stream",
+    "readstream"
+  ]
 }

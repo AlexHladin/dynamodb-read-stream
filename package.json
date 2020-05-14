@@ -10,7 +10,7 @@
     "url": "git@github.com:AlexHladin/dynamodb-read-stream.git"
   },
   "devDependencies": {
-    "@types/node": "^13.9.3",
+    "@types/node": "^14.0.1",
     "aws-sdk": "^2.511.0",
     "typescript": "^3.6.4"
   },

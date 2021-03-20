@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-read-stream",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "description": "Readable stream client for DynamoDB",
